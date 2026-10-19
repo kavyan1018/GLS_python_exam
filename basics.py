@@ -38,9 +38,29 @@ print("Hello World")
 
 # no1 = int(input("Enter the First Number :"))
 # no2 = int(input("Enter the Second Number :"))
-no1 = input("Enter the First Number :")
-no2 = input("Enter the Second Number :")
+# no1 = input("Enter the First Number :")
+# no2 = input("Enter the Second Number :")
 
-sum = int(no1) + int(no2)
+# sum = int(no1) + int(no2)
 
-print(sum)
+# print(sum)
+
+
+
+# # type 
+# # no1 -> int 
+
+# # name -> int 
+
+# print(type(sum))
+
+
+# a = 10
+# b = 10.5
+# c = "Python"
+# d = True
+
+# print(type(a))   # int 
+# print(type(b))   # float
+# print(type(c))   # str
+# print(type(d))   # bool
