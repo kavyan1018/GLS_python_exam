@@ -30,5 +30,42 @@ i = 1
             
 '''
 
-for i in range(10, 1, -1):
-    print(i)
+# for i in range(10, 1, -1):
+#     print(i)
+
+
+# name = "Python"
+
+# for ch in name:
+#     print(ch)
+
+
+# while loop -> execute a block of code as long as a condition is true.
+
+# while condition:
+#       code
+
+# i = 1
+# while i <= 5:
+#     print(i)
+#     i = i + 1
+
+
+# break -> exit the loop when a certain condition is met.
+
+# for i in range(1, 10):
+#     if i == 7:
+#         break
+#     print(i)
+
+
+# continue -> skip the current iteration and move to the next iteration of the loop.
+
+
+# for i in range(1, 6):
+#     if i == 3:
+#         continue
+#     print(i)
+
+
+
